@@ -28,7 +28,7 @@ The team must follow the best practices and coding conventions set by the Larave
 **Implications: Developer Training:** The team will need to become familiar with Laravel’s structure, conventions, and best practices if they are not already.
 **Integration with MySQL:** We will be leveraging Laravel’s Eloquent ORM for database interactions, which will require the team to ensure they understand how to manage relationships and migrations effectively.
 **Performance Tuning:** As the project grows, we may need to optimize Laravel’s performance in terms of caching, database queries, and resource management.
-**Security: **Laravel’s built-in security features, such as CSRF protection and data encryption, will need to be used correctly to avoid security vulnerabilities.
+**Security:** Laravel’s built-in security features, such as CSRF protection and data encryption, will need to be used correctly to avoid security vulnerabilities.
 
 **Related decisions: ADR 2:** Choosing MySQL as the Database – Laravel's ORM works seamlessly with MySQL.
 **ADR 4:** CI/CD Pipeline with GitHub Actions – Laravel applications will need a CI/CD pipeline for deployment and testing.
